@@ -48,8 +48,11 @@ pip install -r requirements.txt
 
 📄 Отчёт: [Скачать отчёт по ЛР3](https://disk.yandex.ru/i/43uySsJzMTUIBw)  
 📁 Код: `LR3_Visualization_Iris.py`  
----
-📁 Все Отчёты: [Скачать](https://disk.yandex.ru/d/wLXco0E4J_pblQ)  
+
+
+
+📁 Все отчёты: [Скачать](https://disk.yandex.ru/d/wLXco0E4J_pblQ)  
+
 ---
 
 ## 🧩 Зависимости
